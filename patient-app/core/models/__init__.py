@@ -1,6 +1,6 @@
 __all__ = (
     'Base',
-    'User'
+    'User',
 )
 
 from .base import Base
